@@ -1,0 +1,1 @@
+export { pageadd } from './add';
